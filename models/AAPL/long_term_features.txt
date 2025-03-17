@@ -1,0 +1,1 @@
+Low,High,Open,MA5,EMA12,MA10,EMA26,BB_middle20,MA20,BB_upper20,BB_lower20,MA50,MA100,MA200,Volume_MA20,Volume_MA10,Volume_MA5,Volume,Volatility21,BB_std20,MACD_signal,Volatility10,MACD,RSI14,Volume_Ratio20,BB_width20
